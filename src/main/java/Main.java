@@ -1,4 +1,4 @@
-import javalin.Javalin;
+import io.javalin.Javalin;
 
 public class Main {
 
